@@ -1,5 +1,7 @@
 # Integrated Subsurface Engineering, Desalination and NPV Valuation Suite
 
+# https://doi.org/10.5281/zenodo.20679475
+
 This repository bundles our 5 simulation modules into a single, cohesive conceptual framework designed for external verification.
 
 ## Getting Started
